@@ -1,4 +1,4 @@
-SliceSense 🍕
+##SliceSense 🍕
 Welcome to SliceSense! This project is a data analysis initiative focusing on pizza sales, using SQL to extract insights from sales data. SliceSense provides a deep dive into sales performance, customer behavior, and trends within the pizza business.
 
 Project Overview
