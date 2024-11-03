@@ -1,7 +1,7 @@
-##SliceSense 🍕
+# SliceSense 🍕
 Welcome to SliceSense! This project is a data analysis initiative focusing on pizza sales, using SQL to extract insights from sales data. SliceSense provides a deep dive into sales performance, customer behavior, and trends within the pizza business.
 
-Project Overview
+## Project Overview
 SliceSense aims to analyze various aspects of a pizza shop's sales data, such as:
 
 Top-selling pizzas
@@ -10,7 +10,7 @@ Customer purchasing patterns
 Revenue analysis by product and customer segments
 The results help stakeholders make data-driven decisions to enhance business performance.
 
-Features
+## Features
 Sales Analysis: Breakdown of daily, weekly, and monthly sales.
 Product Performance: Insights on the most popular and least popular pizzas.
 Customer Insights: Analysis of customer purchasing frequency and patterns.
@@ -20,7 +20,7 @@ Tech Stack
 Database: MySQL (or other SQL-compatible database)
 Tools: SQL queries, JOIN operations, aggregate functions, window functions, etc.
 
-SQL Queries Overview
+## SQL Queries Overview
 The project includes SQL scripts for the following analyses:
 
 Top-Selling Pizzas:
